@@ -1,6 +1,6 @@
 {
-    "API_URL":"http://localhost:5000",
-    "APP_URL":"http://localhost:3000/",
+    "API_URL":"http://15.235.206.26:5000",
+    "APP_URL":"http://15.235.206.26:3000/",
     "APP_CHECKER":"",
     "APP_ID":""
 }
