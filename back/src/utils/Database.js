@@ -4,8 +4,8 @@ class Database {
         let config = {
             host: "localhost",
             user: "root",
-            password: "",
-            database: "database name"
+            password: "CoCaiLon.2025",
+            database: "pos"
           }
      this.connection = mysql.createConnection( config );
     }
